@@ -37,7 +37,7 @@ I am an Electrical and Electronics Engineering master's student with a strong pa
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aas1112)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-arda-sezgin/)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetardaszgnaas@gmail.com)
 <!--
 **aas1112/aas1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
